@@ -1,4 +1,4 @@
-text = open("ochyai.txt","r").read().split()
+text = open("xxtakagi.txt","r").read().split()
 
 import string
 
