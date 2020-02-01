@@ -1,4 +1,4 @@
-text = open("xxtakagi.txt","r").read().split()
+text = open("xxtakagixx.txt","r").read().split()
 
 import string
 
@@ -8,7 +8,7 @@ for line in text:
             if line in text:
                 text.remove(line)
 
-f = open('new_ochyai.txt', 'w')
+f = open('new_xxtakagixx.txt', 'w')
 for x in text:
     f.write(str(x) + "\n")
 f.close()
